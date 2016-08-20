@@ -1,0 +1,24 @@
+<settings>
+    <Video1>
+        <vid1>video.mp4</vid1>
+        <TopLeftx>10.000000000</TopLeftx>
+        <TopLefty>10.000000000</TopLefty>
+        <TopRightx>530.000000000</TopRightx>
+        <TopRighty>243.000000000</TopRighty>
+        <BottomLeftx>8.000000000</BottomLeftx>
+        <BottomLefty>796.000000000</BottomLefty>
+        <BottomRightx>530.000000000</BottomRightx>
+        <BottomRighty>487.000000000</BottomRighty>
+    </Video1>
+    <Video2>
+        <vid2>video.mp4</vid2>
+        <TopLeftx>531.000000000</TopLeftx>
+        <TopLefty>243.000000000</TopLefty>
+        <TopRightx>1104.000000000</TopRightx>
+        <TopRighty>15.000000000</TopRighty>
+        <BottomLeftx>531.000000000</BottomLeftx>
+        <BottomLefty>487.000000000</BottomLefty>
+        <BottomRightx>1120.000000000</BottomRightx>
+        <BottomRighty>786.000000000</BottomRighty>
+    </Video2>
+</settings>
